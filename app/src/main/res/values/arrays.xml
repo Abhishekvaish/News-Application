@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Categories">
+        <item>Top Stories</item>
+        <item>Most Recent Stories</item>
+        <item>India</item>
+        <item>World</item>
+        <item>NRI</item>
+        <item>Business</item>
+        <item>Cricket</item>
+        <item>Sports</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Environment</item>
+        <item>Tech</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+    </string-array>
+    <string-array name="CatLinks">
+        <item>https://timesofindia.indiatimes.com/rssfeedstopstories.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/1221656.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/296589292.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/7098551.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/1898055.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/4719161.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/4719148.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/3908999.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/2647163.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/5880659.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/913168846.cms</item>
+        <item>https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms</item>
+    </string-array>
+</resources>

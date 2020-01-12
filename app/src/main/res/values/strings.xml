@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="row_logo">row_logo</string>
+    <string name="internet_check">Please Check Your Internet Connection</string>
+</resources>
