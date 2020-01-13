@@ -30,7 +30,6 @@ public class Categories extends AppCompatActivity implements MyAdapter.ItemSelec
     RecyclerView recyclerView;
     ArrayList<String> Titles,Links;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

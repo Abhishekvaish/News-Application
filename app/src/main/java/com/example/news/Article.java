@@ -35,8 +35,7 @@ public class Article extends AppCompatActivity {
         setContentView(R.layout.activity_article);
 
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setDisplayHomeAsUpEnabled(true);
-        actionBar.setDisplayShowHomeEnabled(true);
+        actionBar.setTitle(" Article");
 
         tvMsg = findViewById(R.id.tvMsg);
         tvArticle = findViewById(R.id.TvArticle);

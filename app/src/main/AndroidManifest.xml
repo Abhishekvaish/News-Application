@@ -15,8 +15,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Article">
-            <meta-data android:name="android.support.PARENT_ACTIVITY"
-                android:value=".Categories"/>
         </activity>
         <activity android:name=".Categories" >
             <meta-data android:name="android.support.PARENT_ACTIVITY"
